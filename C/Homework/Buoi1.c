@@ -1,3 +1,11 @@
+
+/*
+* File: Bit translation.c
+* Author: Huy Nguyen
+* Date: 24/03/2023
+* Description: This is a program that describes the bit translation method using C language, based on an example of utensils
+*/
+
 #include <stdio.h>
 #include <stdint.h>
 
