@@ -1,3 +1,11 @@
+
+/*
+* File: Buoi_3--Chuyen_So_Thanh_Chu.c
+* Author: Huy Nguyen
+* Date: 24/03/2023
+* Description: This is the file for converting numbers into letters
+*/
+
 #include <stdio.h>
 
 char* number[] = {"khong","mot","hai","ba","bon","nam","sau","bay","tam","chin"};
