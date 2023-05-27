@@ -1,3 +1,11 @@
+
+/*
+* File: Buoi_2-DaoNguocChu.c
+* Author: Huy Nguyen
+* Date: 24/03/2023
+* Description: This is the file for reversing words in a sentence
+*/
+
 #include <stdio.h>
 #include <stdint.h>
 
