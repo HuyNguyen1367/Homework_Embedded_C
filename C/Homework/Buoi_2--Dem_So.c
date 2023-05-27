@@ -1,3 +1,11 @@
+
+/*
+* File: Buoi_2--Dem_So.c
+* Author: Huy Nguyen
+* Date: 24/03/2023
+* Description: This is the file for counting the number of times a digit appears
+*/
+
 #include <stdio.h>
 #include <stdint.h>
 
