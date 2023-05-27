@@ -1,3 +1,11 @@
+
+/*
+* File: Buoi_4--Dem_chu.c
+* Author: Huy Nguyen
+* Date: 24/03/2023
+* Description: This is the file for counting the number of words appearing in a paragraph
+*/
+
 #include <stdio.h>
 
 char arr[] = "mot ngay khong co em la mot ngay anh khong song,boi vi anh yeu em.";
